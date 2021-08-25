@@ -1,4 +1,4 @@
-## CORAL GROWTH SIMULATION IN PYTHON USING RHINO/GRASSHOPPER
+## Coral Growth Simulation in Rhino/Grasshopper 
 
 Code and images within the main branch of this repo were originally created by Jasmin Sadegh, Annie-Locke Scherer, and Rebecca Jaroszewski. See [here](http://www.alscherer.com/python-coral-growth-simulation/) for more information.
 
